@@ -1,5 +1,5 @@
 # Pelican-Stores---Exploratory-Data-Analysis-EDA-
-This repository contains a comprehensive Exploratory Data Analysis (EDA) of the **Pelican Stores** dataset as part of the **Probability and Statistics (24L-0509)** course at **FAST NUCES Lahore**.
+This repository contains a comprehensive Exploratory Data Analysis (EDA) of the **Pelican Stores** dataset. 
 
 ## 📊 Project Overview
 The goal of this project was to utilize descriptive statistics to understand customer purchasing behavior, analyze the effectiveness of promotional campaigns, and investigate the relationship between customer demographics (Age) and Net Sales.
